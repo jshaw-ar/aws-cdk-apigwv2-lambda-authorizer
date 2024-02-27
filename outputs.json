@@ -1,0 +1,5 @@
+{
+  "LambdaAuthorizerStack": {
+    "API": "https://62rwjevn9e.execute-api.us-east-1.amazonaws.com"
+  }
+}
