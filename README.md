@@ -1,14 +1,4 @@
-# Welcome to your CDK TypeScript project
+# Lambda Authorizer with API Gateway v2 (AWS)
 
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
-
-## Useful commands
-
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
-* `npx cdk deploy`  deploy this stack to your default AWS account/region
-* `npx cdk diff`    compare deployed stack with current state
-* `npx cdk synth`   emits the synthesized CloudFormation template
+I couldn't get their example working so I played around a bit and found a couple of things needed for it to work. See the `lambda-authorizer-stack.ts`.
+# aws-cdk-apigwv2-lambda-authorizer
